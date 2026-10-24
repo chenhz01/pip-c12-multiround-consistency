@@ -1,0 +1,29 @@
+[
+  {
+    "id": "L45",
+    "slug": "cross-pass-consistency",
+    "name": "多轮一致性",
+    "cluster": "多轮一致",
+    "dir": "L45-cross-pass-consistency",
+    "loc": 37,
+    "chars": 1019
+  },
+  {
+    "id": "L46",
+    "slug": "contradiction-registry",
+    "name": "矛盾登记册",
+    "cluster": "多轮一致",
+    "dir": "L46-contradiction-registry",
+    "loc": 47,
+    "chars": 1585
+  },
+  {
+    "id": "L47",
+    "slug": "belief-revision-ledger",
+    "name": "信念修订账本",
+    "cluster": "多轮一致",
+    "dir": "L47-belief-revision-ledger",
+    "loc": 33,
+    "chars": 865
+  }
+]

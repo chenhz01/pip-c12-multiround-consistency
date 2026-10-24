@@ -1,0 +1,9 @@
+{
+  "id": "L47",
+  "slug": "belief-revision-ledger",
+  "name": "信念修订账本",
+  "cluster": "多轮一致",
+  "dir": "L47-belief-revision-ledger",
+  "loc": 33,
+  "chars": 865
+}
